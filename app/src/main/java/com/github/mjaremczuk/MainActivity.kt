@@ -25,6 +25,7 @@ class MainActivity : AppCompatActivity() {
     }
 }
 
+
 @Composable
 fun App(scaffoldState: ScaffoldState = remember { ScaffoldState() }) {
     Scaffold(
